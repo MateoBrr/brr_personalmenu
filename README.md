@@ -23,6 +23,10 @@ Caracteristicas
 - Animaciones 
 - Documentos
 
+# Me 
+
+Any dude contact me on discord MateoBrr#2263
+
 # How to install
 
 - add start brr_personalmenu in your cfg file 
